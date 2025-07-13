@@ -21,7 +21,6 @@ This is a beginner-friendly mini project where I designed and simulated *basic l
 - Hands-on simulation experience  
 - How digital gates are used in PLC-based systems
 
-## 📸 Screenshots  
-(Add your simulation screenshots here if available!)
+
 
 ---
